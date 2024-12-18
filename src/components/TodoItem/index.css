@@ -1,0 +1,24 @@
+.todo-bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.description {
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 0;
+}
+
+.button {
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-family: 'Roboto';
+  background-color: transparent;
+  cursor: pointer;
+}
